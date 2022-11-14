@@ -20,7 +20,7 @@ AcaktextModule.forRoot({
 ## Usage
 ```
 import { Injectable } from '@nestjs/common';
-import { AcaktextService } from '@lahirwisada/acaktext.service';
+import { AcaktextService } from '@lahirwisada/acak-text';
 
 @Injectable()
 export class AppService {
