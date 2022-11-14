@@ -1,0 +1,34 @@
+{
+  "author": "lahirwisada",
+  "bugs": {
+    "url": "https://github.com/lahirwisada/acak-text/issues"
+  },
+  "deprecated": false,
+  "description": "A simple hashing for nest",
+  "homepage": "https://github.com/lahirwisada/acak-text#readme",
+  "keywords": [
+    "nest",
+    "hash"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@lahirwisada/acak-text",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahirwisada/acak-text.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "@nestjs/common": "^9.2.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
