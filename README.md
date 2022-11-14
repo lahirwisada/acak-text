@@ -1,4 +1,4 @@
-# nest-hashing
+# @lahirwisada/acak-text
 Simple hashing 
 
 ## Install
